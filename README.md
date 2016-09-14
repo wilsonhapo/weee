@@ -1,2 +1,2 @@
 # weee
-My first repository on Githud
+My first repository on GitHud.
